@@ -1,6 +1,6 @@
 # Part 1
 ### a)
-ggrep -P "blass" filescan_00.1 > blastoise.txt
+ggrep -P "blas" filescan_00.1 > blastoise.txt
 ggrep -P "beed" filescan_00.1 > beedrill.txt
 ggrep -P "bulb" filescan_00.1 > bulbasaur.txt
 ggrep -P "butt" filescan_00.1 > butterfree.txt
@@ -13,7 +13,7 @@ ggrep -P "jigg" filescan_00.3 > jigglypuff.txt
 ggrep -P "ivys" filescan_00.3 > ivysaur.txt 
 
 ### b)
-ggrep -P "blass" filescan_00.1 > ../captured/blastoise.txt
+ggrep -P "blas" filescan_00.1 > ../captured/blastoise.txt
 ggrep -P "beed" filescan_00.1 > ../captured/beedrill.txt
 ggrep -P "bulb" filescan_00.1 > ../captured/bulbasaur.txt
 ggrep -P "butt" filescan_00.1 > ../captured/butterfree.txt
@@ -28,7 +28,7 @@ ggrep -P "ivys" filescan_00.3 > ../captured/ivysaur.txt
 ### c)
 
 
-ggrep -P "blass" filescan_00.1 
+ggrep -P "blas" filescan_00.1 
 ggrep -P "beed" filescan_00.1 
 ggrep -P "bulb" filescan_00.1 
 ggrep -P "butt" filescan_00.1
